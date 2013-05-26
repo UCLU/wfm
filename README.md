@@ -1,4 +1,4 @@
 wfm
 ===
 
-Webform Multiple. See http://drupal.org/sandbox/pjcdawkins/1928600
+Webform Multiple. See http://drupal.org/project/wfm
